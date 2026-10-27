@@ -1,0 +1,2 @@
+java_lab.ImageViewerBean
+java_lab.ImageViewerTest
